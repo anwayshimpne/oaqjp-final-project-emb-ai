@@ -1,0 +1,4 @@
+DUMMY TERMINAL OUTPUT (illustrative only; not produced by running the command)
+
+/home/project/final_project$ python3 -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I am very angry'))"
+{'anger': 0.91, 'disgust': 0.08, 'fear': 0.12, 'joy': 0.01, 'sadness': 0.17, 'dominant_emotion': 'anger'}
